@@ -6,6 +6,9 @@
 # Data folder
 data/
 
+# Original Figures Folder
+figure/
+
 # History files
 .Rhistory
 .Rapp.history
